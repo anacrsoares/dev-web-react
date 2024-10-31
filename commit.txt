@@ -1,0 +1,10 @@
+wip: Create new form, in...
+
+Mais: 
+    - Adiocionado input de login e senha;
+    - Adicionado botão de entrar;
+    - Adicionado link para esqueci minha senha;
+    - Modal para criar conta;
+    - Link para criar conta;
+
+Resolves: #PROJ-001, #PROJ-4567
